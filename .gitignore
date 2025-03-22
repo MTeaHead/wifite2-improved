@@ -33,3 +33,4 @@ Module.symvers
 *.cap
 cracked.json
 venv/
+sniffed_data.db
